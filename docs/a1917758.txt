@@ -1,5 +1,8 @@
 ## [unreleased]
 
+##Changed
+- Remove XXXXXXX bugs from 'data/a1917758.txt' to fix high severity issue #58 (https://github.com/davmlaw/2025_assessment_6_version_control/issues/58)
+
 ### Added
 
 - [Generate initial text files for students](https://github.com/davmlaw/2025_assessment_6_version_control/issues/1) - including initial errors
@@ -9,3 +12,4 @@
 ### Added
 
 - Initial commit
+
